@@ -93,7 +93,7 @@ Dashboard Panel: ![alt text](image-2.png)
 
 ## Deployment
 
-The application is deployed and accessible at: [job-portal-hazel-gamma.vercel.app]()
+The application is deployed and accessible at: [jobportal-cia0.onrender.com](https://jobportal-cia0.onrender.com)
 
 ## Contributing
 
