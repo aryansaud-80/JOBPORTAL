@@ -30,7 +30,7 @@ A full-stack Job Portal application designed to connect job seekers with employe
 
    ```bash
    git clone https://github.com/aryansaud-80/JOBPORTAL.git
-   cd JOBPORTAL
+   cd Job-Portal
    ```
 
 2. **Setup Backend**:
@@ -93,7 +93,7 @@ Dashboard Panel: ![alt text](image-2.png)
 
 ## Deployment
 
-The application is deployed and accessible at: [jobportal-cia0.onrender.com](https://jobportal-cia0.onrender.com)
+The application is deployed and accessible at: [job-portal-hazel-gamma.vercel.app]()
 
 ## Contributing
 
